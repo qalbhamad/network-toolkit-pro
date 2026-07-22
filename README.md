@@ -30,7 +30,7 @@ The program can check here for newer versions from **Help → Check for Updates*
 
 ---
 
-© 2026 Saudi Electricity Company — ENG Faisel Alatawi. All rights reserved.
+© 2026 Saudi Energy — ENG Faisel Alatawi. All rights reserved.
 Contact: 66026@SE.COM.SA
 
 ---
