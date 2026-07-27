@@ -1,6 +1,6 @@
 {
-  "version": "1.6.3.28",
+  "version": "1.6.3.29",
   "date": "2026-07-27",
   "url": "https://github.com/qalbhamad/network-toolkit-pro/releases/latest",
-  "notes": "In-app update check."
+  "notes": "IP Verifier: prove the control centre has your equipment's IP entered correctly. Plus true DPI scaling, Arabic text fixes, and a tidier layout throughout."
 }
